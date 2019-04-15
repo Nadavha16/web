@@ -8,4 +8,4 @@ customers some of the products that the company manufactures.
 This section needs to be updated as you develop your project
 **Versions:**
 *1.0.0*
-- Initial project structure
+- Initial project structure – Added index.html
