@@ -1,5 +1,7 @@
 **Author: Nadav Harlev**
-**Repository: [http://github.com/nadavha16/web](http://github.com/nadavha16/web)* *
+
+**Repository: [http://github.com/nadavha16/web](http://github.com/nadavha16/web)**
+
 **Version: 1.0**
 ## Project subject
 > AIRLEV HELICOPTERS & AVIATION SERVICES LTD. ## AirLev public customer site that will show the
